@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125467062223",
+    "project_id": "cloud-messaging-giadagiacobbe",
+    "storage_bucket": "cloud-messaging-giadagiacobbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125467062223:android:85ac544f1682d0dc4c2cba",
+        "android_client_info": {
+          "package_name": "com.example.inclass17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOl5lGWpTZ5MXU8L6EZtPCskgnDvhy1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
